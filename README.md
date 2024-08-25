@@ -25,7 +25,7 @@
 
 <p align="Left"></p>
 
-<div>&nbsp;<img align="Left" src="https://github-readme-stats.vercel.app/api?username=pradeepthapa198&show_icons=true&locale=en" alt="pradeepthapa198" /></div><br/>
+<div><img align="Left" src="https://github-readme-stats.vercel.app/api?username=pradeepthapa198&show_icons=true&locale=en" alt="pradeepthapa198" /></div><br/>
 <p align="Left"></p>
 
 <div><img align="Left" src="https://github-readme-streak-stats.herokuapp.com/?user=pradeepthapa198&" alt="pradeepthapa198" /></div><br/>
